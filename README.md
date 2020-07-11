@@ -14,7 +14,7 @@ Get all tasks in the database
     }
     {
         "create_date": "2020-07-10T23:03:46",
-        "description": description 2",
+        "description": "description 2",
         "id": 2,
         "title": "title 2"
     }
